@@ -1,0 +1,4 @@
+users (nom,prenom,adresse,ville,email,telephone,mdp)
+produits(nom_produit,desc,prix,temps_restant,quantite,nb_vente,reservation,rating)
+vendeur(nom_commercial,telehpone,email,categorie_comerciale)
+admin(nom,prenom,email,telehpone,mdp)

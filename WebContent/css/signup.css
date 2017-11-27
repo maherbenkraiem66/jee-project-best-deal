@@ -1,0 +1,22 @@
+form{
+	margin-top:200px;
+}
+body{
+	background:	#f5f6f8;
+}
+.title{
+	width:100%;
+	background:black;
+	color:#00ccff;
+	font-size:40px;
+    font-family: "Times New Roman", Times, serif;
+    text-align:center;
+}
+
+input:focus{
+	border:1px #3d495a solid;
+}
+.control-label
+{
+	color: 	#3d495a;
+}
